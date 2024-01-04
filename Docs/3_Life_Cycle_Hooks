@@ -1,0 +1,8 @@
+- Life Cycles Hooks sao eventos que podem ser ativados
+em determinadas partes da execucao do programa
+
+Exemplo: created,mounted
+
+- Executa o codigo a partir do momento que o componente e criado
+- Estes gatilhos sao interessantes para alterar a aplicacao em 
+diversas etapas distintas
