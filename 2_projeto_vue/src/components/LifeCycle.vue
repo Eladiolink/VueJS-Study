@@ -20,7 +20,7 @@
         },
         mounted(){
             setTimeout(()=>{
-                this.name =  'Pedoca'
+                this.name =  'Pepe'
             }, 2000)  
         }
     }

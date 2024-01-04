@@ -1,0 +1,5 @@
+- E comum "componentes terem outros componentes" que dependem deles
+- Entao se e criado uma arvore de componentes
+- Necessita-se de cuidade para isso nao virar bagunca
+- Com divisao de componentes em subcomponentes, separa-se 
+mais ainda as responsabilidades de cada um dos componentes
