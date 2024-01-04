@@ -1,9 +1,13 @@
 <template>
     <div>
       <PrimeiroComponenteVue/>
+      <hr>
       <LifeCycle/>
+      <hr>
       <PessoaVue/>
+      <hr>
       <FormVue/>
+      <hr>
     </div>
 </template>
 

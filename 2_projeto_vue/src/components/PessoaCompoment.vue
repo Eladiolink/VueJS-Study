@@ -1,8 +1,6 @@
 <template>
     <div>
         <InfoVue/>
-        <InfoVue/>
-        <InfoVue/>
     </div>
 </template>
 
