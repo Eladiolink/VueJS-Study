@@ -1,9 +1,9 @@
 <template>
     <div>
-        <InfoVue/>
+        <InfoVue compEmail="eladiolink1@gmail.com" :email="email"/>
     </div>
 </template>
-
+ 
 <script>
     import InfoVue from './InfoVue.vue';
 
@@ -11,7 +11,8 @@
         name: "PessoaCompoment",
         data(){
             return{
-                name: "Pepe"
+                name: "Pepe",
+                email:"Eladiolink@hotmail.com"
             }
         },
         components:{

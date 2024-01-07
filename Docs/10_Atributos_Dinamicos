@@ -1,0 +1,4 @@
+- Argumentos sao valores dinamicos qque podem ser inseridos em:
+    Diretivas: baseados nestes valores para executar um determinados comportamento
+    Atributos: mudar URL de links ou src de Imagens
+- Esssenciais para alterar a experiencia do usuario no uso da aplicacao

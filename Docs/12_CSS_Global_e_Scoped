@@ -1,0 +1,4 @@
+- Css no Vue pode ser dividido em duas cartegorias:
+    Global: Onde definimos no App, por exemplo, se aplica a todos os elementos.
+    Scoped: Onde cada componente pode ter seu estilo, deixando mais facil de personalizar os elementos
+- Geralmente utillizamos o scoped para estilizar os componentes

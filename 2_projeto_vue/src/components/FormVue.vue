@@ -1,7 +1,10 @@
 <template>
-  <form action="">
+  <form action="" @submit="enviarForm($event)">
     <InputTextVue/>
     <InputTextVue/>
+
+    <div><input type="text" placeholder="name" v-model="name"></div>
+    <div><input type="email" placeholder="email" v-model="email"></div>
     <SubmitVue/>
   </form>
 </template>
@@ -13,12 +16,22 @@ import SubmitVue from './form/SubmitVue.vue'
         name: "FormVue",
         data(){
             return{
-                name: "Pepe"
+                name: "",
+                email:""
             }
         },
         components:{
             InputTextVue,
             SubmitVue
+        },
+        methods:{
+            enviarForm(e){
+                e.preventDefault();
+                const name = this.name
+                const email = this.email
+                console.log("ENVIADO!!!",name,email)
+                // Ajax
+            }
         }
     }
 </script>

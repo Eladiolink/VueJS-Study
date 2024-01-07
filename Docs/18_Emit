@@ -1,0 +1,4 @@
+- Utilizando o $emit e possivel ouvir um evento de um componente filho em um componente pai
+- Com isso,, podemos ativar comportamentos (como metodos) no componente pai
+- O evento deve ser registrado no componente
+- E e preciso definir o que sera feito com a ativacao do evento na chamada do componente 

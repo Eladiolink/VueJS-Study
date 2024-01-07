@@ -1,0 +1,4 @@
+- Sao utilizzados para complementar acoes dos usuarios como ativacao de metodos
+- Tem-se diversos tipos nde eventos como o @click
+- Podem ser adicionados diretamente a elementos do HTML
+- O evento recebe um "parametro" que e o medoto que sera executado

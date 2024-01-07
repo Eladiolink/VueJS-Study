@@ -1,0 +1,4 @@
+- O Vue permite a entrada de multiplos eventos em um unico eventos
+- A sintaxe permanece a mesma
+- Porem vamos separar os eventos por virgula
+- Isso permite executar dois ou mais metodos com um click

@@ -1,0 +1,3 @@
+- As listas (arrays) serao renderizadas por diretiva v-for
+- O dado pode vim de um payload, em forma de array
+- Cada item pode ser impresso junto ao HTML

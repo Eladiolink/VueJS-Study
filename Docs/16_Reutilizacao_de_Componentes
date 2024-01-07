@@ -1,0 +1,4 @@
+- No Vue e comum a reutilizacao de componentes
+- Cada componente sera completamente independente
+- Entao pode-se ativar seus metodos e mudar seus dados, assim que necessario;
+- Para utilizar o recurso, basta invocar novamente o componente apos a importacao dele
